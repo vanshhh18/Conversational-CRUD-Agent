@@ -1,4 +1,4 @@
-# 🤖 Conversational CRUD Agent
+# 🤖 OpsCopilot: LLM-Powered Business Operations Agent with Human-in-the-Loop 
 
 This Copilot is an AI-powered chatbot built with **FastAPI** that performs CRUD (Create, Read, Update, Delete) operations on a SQLite database using natural language requests. It leverages function/tool calling to translate user queries into database actions.
 
