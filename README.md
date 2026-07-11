@@ -1,6 +1,6 @@
-# 🤖 HobbyFi Copilot
+# 🤖 Conversational CRUD Agent
 
-HobbyFi Copilot is an AI-powered chatbot built with **FastAPI** that performs CRUD (Create, Read, Update, Delete) operations on a SQLite database using natural language requests. It leverages function/tool calling to translate user queries into database actions.
+This Copilot is an AI-powered chatbot built with **FastAPI** that performs CRUD (Create, Read, Update, Delete) operations on a SQLite database using natural language requests. It leverages function/tool calling to translate user queries into database actions.
 
 ---
 
